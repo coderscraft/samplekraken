@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "sample app",
   "author": "ravi",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "grunt test"
   },
